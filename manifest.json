@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Lab8_Starter",
+    "short_name": "Luis",
     "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "purple",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
